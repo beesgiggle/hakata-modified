@@ -6,6 +6,6 @@ Custom keymap for my personal lily58.
 - bongocats
 - custom logo
 
-## What it doesn't feature
+## What it doesn't Feature
 - rotary encoder support
 - RGB
